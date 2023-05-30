@@ -1,0 +1,25 @@
+{
+  "name": "task3_ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "secure-random": "^1.1.2",
+    "tty-table": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "@types/readline-sync": "^1.4.4",
+    "@types/secure-random": "^1.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
